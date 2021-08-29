@@ -1,5 +1,3 @@
-package com.company;
-
 import java.io.*;
 import java.util.*;
 import java.lang.*;
@@ -7,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class Main {
+public class MostFrequentSymbol {
 
     public static void main(String[] args) {
 
